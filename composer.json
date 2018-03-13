@@ -1,6 +1,6 @@
 {
   "name": "xpwales/xpwales-hash-id",
-  "description": "Hash ID feature for models",
+  "description": "Hash ID feature for models.",
   "type": "library",
   "license": "BSD-2-Clause",
   "authors": [
