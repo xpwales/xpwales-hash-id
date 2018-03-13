@@ -2,7 +2,7 @@
   "name": "xpwales/xpwales-hash-id",
   "description": "Hash ID feature for models",
   "type": "library",
-  "license": "BSD",
+  "license": "BSD-2.0",
   "authors": [
     {
       "name": "Mike Adrian",
